@@ -6,3 +6,6 @@ itms-services://?action=download-manifest&url=https://github.com/llin96/memberap
 itms-services://?action=download-manifest&url=https://github.com/llin96/memberapp/raw/master/memberapp_real.plist
 
 itms-services://?action=download-manifest&url=https://github.com/llin96/memberapp/raw/master/dev/memberapp_real_siebel.plist
+
+
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/llin96/BasserStoreApp/master/BasserStoreApp_dev.plist
